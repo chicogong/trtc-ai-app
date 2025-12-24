@@ -1,5 +1,11 @@
 # TRTC AI App
 
+[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-5.x-000000?logo=express&logoColor=white)](https://expressjs.com/)
+[![Tencent Cloud](https://img.shields.io/badge/Tencent%20Cloud-TRTC-0052CC?logo=tencentqq&logoColor=white)](https://cloud.tencent.com/product/trtc)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/chicogong/trtc-ai-app?style=social)](https://github.com/chicogong/trtc-ai-app)
+
 基于腾讯云 TRTC 的 AI 实时语音对话应用，集成 ASR（语音识别）、LLM（大语言模型）和 TTS（语音合成）能力。
 
 ## 功能特性
